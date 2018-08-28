@@ -9,7 +9,7 @@
 = Header = 
     header-logo:
         left-of header-text 22 px
-    
+= Main =    
     button:
         width 78 px
         height 45 px
