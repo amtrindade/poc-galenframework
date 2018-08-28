@@ -1,0 +1,19 @@
+
+
+@objects
+    header-logo  css   #header-logo
+    header-text  css   #header h1
+    button       css   .btn
+    message-info css   div#middle div.middle-wrapper div#content div#welcome-page.jumbotron p
+
+= Header = 
+    header-logo:
+        left-of header-text 22 px
+    
+    button:
+        width 78 px
+        height 45 px
+
+    message-info:
+        text is "This app is used as a playground for Galen Framework"
+
